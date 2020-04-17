@@ -25,7 +25,7 @@ namespace Aniforemka
         private void Settings_button_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2();
-            f2.Show();
+            f2.ShowDialog();
         }
     }
 }
