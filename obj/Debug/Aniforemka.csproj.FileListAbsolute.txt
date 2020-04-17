@@ -8,3 +8,4 @@ D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.Genera
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.CoreCompileInputs.cache
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.exe
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.pdb
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.Form2.resources

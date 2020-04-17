@@ -52,6 +52,7 @@
             this.Settings_button.TabIndex = 1;
             this.Settings_button.Text = "Ustawienia";
             this.Settings_button.UseVisualStyleBackColor = true;
+            this.Settings_button.Click += new System.EventHandler(this.Settings_button_Click);
             // 
             // Form1
             // 
