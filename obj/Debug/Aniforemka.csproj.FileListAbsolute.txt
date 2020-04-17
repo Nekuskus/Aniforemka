@@ -1,0 +1,10 @@
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\Aniforemka.exe.config
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\Aniforemka.exe
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\Aniforemka.pdb
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csprojAssemblyReference.cache
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.Form1.resources
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.Properties.Resources.resources
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.GenerateResource.cache
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.CoreCompileInputs.cache
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.exe
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.pdb

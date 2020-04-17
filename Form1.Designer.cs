@@ -29,29 +29,39 @@
         private void InitializeComponent()
         {
             this.Przycisk = new System.Windows.Forms.Button();
+            this.Settings_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Przycisk
             // 
-            this.Przycisk.BackColor = System.Drawing.Color.White;
-            this.Przycisk.BackgroundImage = global::Aniforemka.Properties.Resources.woomy;
+            this.Przycisk.BackColor = System.Drawing.Color.Transparent;
             this.Przycisk.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Przycisk.Location = new System.Drawing.Point(156, 12);
+            this.Przycisk.Location = new System.Drawing.Point(629, 12);
             this.Przycisk.Name = "Przycisk";
-            this.Przycisk.Size = new System.Drawing.Size(466, 396);
+            this.Przycisk.Size = new System.Drawing.Size(159, 42);
             this.Przycisk.TabIndex = 0;
-            this.Przycisk.Text = "Woomy Button";
+            this.Przycisk.Text = "Odśwież";
             this.Przycisk.UseVisualStyleBackColor = false;
             this.Przycisk.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Settings_button
+            // 
+            this.Settings_button.Location = new System.Drawing.Point(473, 12);
+            this.Settings_button.Name = "Settings_button";
+            this.Settings_button.Size = new System.Drawing.Size(150, 42);
+            this.Settings_button.TabIndex = 1;
+            this.Settings_button.Text = "Ustawienia";
+            this.Settings_button.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Settings_button);
             this.Controls.Add(this.Przycisk);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Main window";
             this.ResumeLayout(false);
 
         }
@@ -59,6 +69,7 @@
         #endregion
 
         private System.Windows.Forms.Button Przycisk;
+        private System.Windows.Forms.Button Settings_button;
     }
 }
 
