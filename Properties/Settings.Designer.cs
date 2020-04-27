@@ -26,12 +26,23 @@ namespace Aniforemka.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool Ustawienie {
+        public bool Ciemny_motyw {
             get {
-                return ((bool)(this["Ustawienie"]));
+                return ((bool)(this["Ciemny_motyw"]));
             }
             set {
-                this["Ustawienie"] = value;
+                this["Ciemny_motyw"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public string Nazwa_konta {
+            get {
+                return ((string)(this["Nazwa_konta"]));
+            }
+            set {
+                this["Nazwa_konta"] = value;
             }
         }
     }

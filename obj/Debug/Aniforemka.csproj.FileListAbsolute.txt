@@ -9,3 +9,15 @@ D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.CoreCo
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.exe
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.pdb
 D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.Form2.resources
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\GraphQL-Parser.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\GraphQL.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Buffers.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.Core.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.Linq.dll
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Buffers.xml
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.xml
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.Core.xml
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\bin\Debug\System.Reactive.Linq.xml
+D:\Damian\Hakier\Csharp\Aniforemka\Aniforemka\obj\Debug\Aniforemka.csproj.CopyComplete

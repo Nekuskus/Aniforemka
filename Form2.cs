@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Aniforemka.Properties;
+using System;
 using System.Windows.Forms;
 
 namespace Aniforemka
@@ -34,10 +28,41 @@ namespace Aniforemka
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            switch(listBox1.SelectedIndex)
+            {
+                case 0:
+                    OgólneBox.Show();
+                    KontoBox.Hide();
+                    break;
+                case 1:
+                    KontoBox.Show();
+                    OgólneBox.Hide();
+                    break;
+            }
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Settings ust = new Settings();
+            ust.Nazwa_konta = textBox1.Text;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
         {
 
         }

@@ -27,5 +27,10 @@ namespace Aniforemka
             Form2 f2 = new Form2();
             f2.ShowDialog();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
